@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./Mentor.css";
 import "fullpage.js/vendors/scrolloverflow";
 import ReactFullpage from "@fullpage/react-fullpage";
+
 class Mentor extends Component {
   constructor(props) {
     super(props);
