@@ -19,10 +19,12 @@ class Forum extends Component {
             other students.
           </p>
           <a
-            href="https://wastedpotnetial.discussion.community/?forum=773874"
-            target="_blank"
-          >
-            <h2>Go to Forum</h2>
+              href="https://wastedpotnetial.discussion.community/?forum=773874"
+              target="_blank"
+            >
+          <h2>
+              Go to Forum
+          </h2>
           </a>
         </div>
       </div>
