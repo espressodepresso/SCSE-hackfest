@@ -6,7 +6,6 @@
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("./mentor.jpg");
   background-size: cover;
-
 }
 
 .mentor-text {
@@ -29,7 +28,6 @@
   padding: 0.72rem 1.7rem;
   color: #ffffff;
   transition: background-color 0.5s;
-
   border-style: solid;
   border-radius: 3px;
   border-color: #66fcf1;
